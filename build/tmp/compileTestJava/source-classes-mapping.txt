@@ -1,0 +1,10 @@
+com/example/demo/TestingWebApplicationTests.java
+ com.example.demo.TestingWebApplicationTests
+com/example/demo/SmokeTest.java
+ com.example.demo.SmokeTest
+com/example/demo/WebMockTest.java
+ com.example.demo.WebMockTest
+com/example/demo/HttpRequestTest.java
+ com.example.demo.HttpRequestTest
+com/example/demo/WebLayerTest.java
+ com.example.demo.WebLayerTest

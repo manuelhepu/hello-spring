@@ -1,6 +1,6 @@
 ---
 config:
-  repo_type: maven
+  repo_type: gradle
   repo_name: hello-spring
   author: mherrera
   email: mherrera@viewnext.com
